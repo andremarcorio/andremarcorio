@@ -5,7 +5,7 @@
 
 :books: I have a degree in businees management and accounting.
 
-:computer: : I’m currently learning Business Analytics, Business Intelligence, Data Analytics and Data Science.
+:computer: I’m currently learning Business Analytics, Business Intelligence, Data Analytics and Data Science.
 
 ## My contacts:
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/andremarcorio/)
