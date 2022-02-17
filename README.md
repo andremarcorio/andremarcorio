@@ -1,10 +1,16 @@
-### Hi there 👋
+# Welcome!
+## I'm Wilcer 👋
 
 <!--
 **andremarcorio/andremarcorio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+:house_with_garden: I’m from São Paulo/SP, Brazil.
 
+:computer: I have a degree in businees management and accounting.
+
+:books: I’m currently learning Business Analytics, Business Intelligence, Data Analytics and Data Science.
+
+:outbox_tray: 2021 Goals: create a new project and find a new job.
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
